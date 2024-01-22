@@ -1,0 +1,18 @@
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+}
+#googleMap{
+    width: 100%;
+    height: 400px;
+    background-color: red;
+}
+.harita{
+    display: flex;
+    flex-wrap: wrap;
+}
+.harita1{
+    flex: 1;
+    margin-right: 15px;
+}
